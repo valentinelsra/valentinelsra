@@ -28,11 +28,17 @@ I am mostly interested in NGS data analysis, interface development and statistic
 You can communicate with me either in French or English.
 
 ⚡ Fun fact about me : I spend my free time looking for birds :bird:
-
+<p align="center">
 ### How to reach me:
-- valentine.lesourd@orange.fr
-- [Linkedin](https://www.linkedin.com/in/valentine-lesourd-aubert/)
+** valentine.lesourd@orange.fr **
+ <img src="{[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)}" />
+ 
+[Linkedin](https://www.linkedin.com/in/valentine-lesourd-aubert/)
+</p>
 
+<p align="center">
+💻 My workspace
+</p>
 
 <img
   src="https://github.com/valentinelsra/VirAlz/blob/main/images/stat.svg"
