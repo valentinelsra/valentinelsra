@@ -9,7 +9,13 @@
 
 # 👋👋👋 ![](https://komarev.com/ghpvc/?username=valentinelsra&color=blueviolet)
 
-![Profil banner presenting myself as a Bioinformatician engineer with Memoji](https://github.com/valentinelsra/valentinelsra/blob/main/banner.png?raw=true)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/valentinelsra/valentinelsra/blob/main/banner.png?raw=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/valentinelsra/valentinelsra/blob/main/banner_light.png?raw=true">
+ <img alt="Shows a different profil banner depending on the theme (light or darkmode)." src="https://github.com/valentinelsra/valentinelsra/blob/main/banner.png?raw=true">
+</picture>
+
+<!--![Profil banner presenting myself as a Bioinformatician engineer with Memoji](https://github.com/valentinelsra/valentinelsra/blob/main/banner.png?raw=true)-->
 
 <p align="center"><strong>
 :hospital::round_pushpin: Currently working at the Virology Department of Bordeaux University Hospital, FR
@@ -41,7 +47,7 @@
 
 ##
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valentinelsra&theme=dark" /> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=valentinelsra&theme=dark" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=valentinelsra&theme=dark" />
 
 ##
 
