@@ -1,12 +1,3 @@
-<!--
-# Hi there, I'm Valentine 👋
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/valentinelsra/valentinelsra/blob/main/banner2.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/valentinelsra/valentinelsra/blob/main/banner1.png">
- <img alt="Shows a different profil banner depending on the theme (light or darkmode)." src="https://github.com/valentinelsra/valentinelsra/blob/main/banner1.png">
-</picture>
--->
-
 # 👋👋👋 ![](https://komarev.com/ghpvc/?username=valentinelsra&color=blueviolet)
 
 <picture>
@@ -15,15 +6,13 @@
  <img alt="Shows a different profil banner depending on the theme (light or darkmode)." src="https://github.com/valentinelsra/valentinelsra/blob/main/banner.png?raw=true">
 </picture>
 
-<!--![Profil banner presenting myself as a Bioinformatician engineer with Memoji](https://github.com/valentinelsra/valentinelsra/blob/main/banner.png?raw=true)-->
-
 <p align="center"><strong>
 :hospital::round_pushpin: Currently working at the Virology Department of Bordeaux University Hospital, FR
 </strong></p>
 
 ##
 
-<p align="center"> I am mostly interested in NGS data analysis, interface development and statistics, computational healthsciences as well as sciences for a sustainable world. Concretely, I'm passionate about creating technology to letting the figures do the talking, because it have so much to reveal. As a working environment, I'm looking for a ✨ healthy and enjoyable atmosphere ✨ with colleagues interested in sharing their experience and creating a social connection. Fun fact about me : I spend my free time looking for birds :bird: ! </p>
+<p align="center"> I am mostly interested in NGS data analysis, interface development and statistics, computational healthsciences as well as sciences for a sustainable world. Concretely, I'm passionate about creating technology to letting the figures do the talking, because it have so much to reveal. As a working environment, I appreciate a ✨ healthy and enjoyable atmosphere ✨ with colleagues interested in sharing their experience and creating a social connection. Fun fact about me : I spend my free time looking for birds :bird: ! </p>
 
 ##
 
@@ -47,7 +36,11 @@
 
 ##
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=valentinelsra&theme=dark" />
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=valentinelsra&theme=dark">
+ <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=valentinelsra&theme=github">
+ <img alt="Shows git stats with colors depending on the theme (light or darkmode)." src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=valentinelsra&theme=dark">
+</picture>
 
 ##
 
