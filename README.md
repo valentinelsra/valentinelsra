@@ -49,9 +49,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" /> : in progress <br>
  <img
-  src="https://github.com/valentinelsra/VirAlz/blob/main/images/stat.svg"
-  alt="My WakaTime Coding Activity"
-/>
+ 
 </p>
 
 
