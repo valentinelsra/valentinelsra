@@ -23,7 +23,7 @@
 <p align="center">
  :rocket: My skills  <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,py,anaconda,r,matlab,docker,git,postgres" />
+    <img src="https://skillicons.dev/icons?i=bash,py,anaconda,r,matlab,docker,git" />
   </a>
 </p>
 
