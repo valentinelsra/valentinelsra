@@ -7,12 +7,12 @@
 </picture>
 
 <p align="center"><strong>
-:hospital::round_pushpin: Currently working at the Virology Department of Bordeaux University Hospital, FR
+:hospital::round_pushpin: Currently working as a member of the SWAN Research-Team (Aquitaine Institute of Cognitive and Integrative Neuroscience, Bordeaux Neurocampus, University of Bordeaux, FR)
 </strong></p>
 
 ##
 
-<p align="center"> I am mostly interested in NGS data analysis, interface development and statistics, computational healthsciences as well as sciences for a sustainable world. Concretely, I'm passionate about creating technology to letting the figures do the talking, because it have so much to reveal. As a working environment, I appreciate a ✨ healthy and enjoyable atmosphere ✨ with colleagues interested in sharing their experience and creating a social connection. Fun fact about me : I spend my free time looking for birds :bird: ! </p>
+<p align="center"> The hot topic here is the computational healthscience, especially the automatisation of biological data analysis (such as NGS and IRM data). As a scientist, I am a big supporter of reproducible bioinformatics methods ♻️ I appreciate a ✨ healthy and enjoyable atmosphere ✨ with colleagues interested in sharing their experience. Fun fact about me : I spend my free time looking for birds :bird: ! </p>
 
 ##
 
@@ -23,7 +23,7 @@
 <p align="center">
  :rocket: My skills  <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,py,r,docker,git,html,css,postgres,js" />
+    <img src="https://skillicons.dev/icons?i=bash,py,anaconda,r,matlab,docker,git,postgres" />
   </a>
 </p>
 
@@ -31,7 +31,8 @@
 
 <p align="center">
 💻 My workspace  <br>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /> <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /> <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=github,linux,vscode"/>
 </p>
 
 ##
